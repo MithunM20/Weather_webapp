@@ -30,7 +30,7 @@ APIs
 
 Run the following commands in your terminal:
 
-git clone [https://github.com/yourusername/weather-app.git](https://github.com/yourusername/weather-app.git)
+git clone https://github.com/MithunM20/Weather_webapp
 cd weather-app
 
 ## Install Dependencies
